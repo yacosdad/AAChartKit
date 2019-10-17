@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'AAChartKit-temp'
-    s.version      = '3.0.2'
+    s.version      = '3.0.2.1'
     s.summary      = 'An elegant and friendly chart library for iOS developer, temp fork of AAChartKit'
     s.description  = <<-DESC
 ***
